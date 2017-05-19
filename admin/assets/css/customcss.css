@@ -1,0 +1,54 @@
+input[type=radio].ace+.lbl {
+     margin-left: 10px !important;
+}
+.quanlyaccradio .radio{
+	float: left;
+}
+.quanlyaccselect select{
+	float: left;
+}
+.mytag .inline{
+	float: left;
+	text-align: left;
+}
+.mytag .tags{
+	width: inherit;
+}
+.bv-form .form-group .form-control-feedback{
+	right: 0;
+}
+.help-block{
+	margin-top: 40px;
+	margin-bottom: 0;
+}
+.danh-muc{
+	width: 33.3%;
+}
+#img{
+	padding-top: 0;
+	margin-top: -5px;
+}
+.img-detail{
+	width: 300px;
+}
+.ViewTable .CaptionTD{
+	width: 20%;
+}
+.FormGrid .EditTable tr:first-child {
+    display: table-row;
+}
+#alertmod_grid-table{
+	top: 950px !important;
+}
+/*#viewmodgrid-table{
+	left: 414px !important;
+}
+#editmodgrid-table{
+	left: 414px !important;
+}
+#delmodgrid-table{
+	left: 583px !important;
+}
+#searchmodfbox_grid-table{
+	left: 414px !important;
+}*/
